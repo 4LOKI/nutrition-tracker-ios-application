@@ -1,0 +1,74 @@
+[
+  {
+    "id": "F2B83624-941D-47E5-9D27-A39B1A4A0A4E",
+    "name": "Chicken Breast",
+    "servingSize": "100g",
+    "calories": 165,
+    "protein": 31,
+    "carbs": 0,
+    "fat": 3.6
+  },
+  {
+    "id": "A7B42A4E-29B4-4B1D-B878-F7C6A1D2D3E1",
+    "name": "Brown Rice",
+    "servingSize": "1 cup cooked",
+    "calories": 215,
+    "protein": 5,
+    "carbs": 45,
+    "fat": 1.8
+  },
+  {
+    "id": "C3D9E8F1-7A6B-4C2D-9E1A-A9B8C7D6E5F4",
+    "name": "Salmon",
+    "servingSize": "100g",
+    "calories": 208,
+    "protein": 20,
+    "carbs": 0,
+    "fat": 13
+  },
+  {
+    "id": "E1F2A3B4-8C7D-4E6F-A1B2-C3D4E5F6A7B8",
+    "name": "Broccoli",
+    "servingSize": "1 cup chopped",
+    "calories": 55,
+    "protein": 3.7,
+    "carbs": 11,
+    "fat": 0.6
+  },
+  {
+    "id": "B8A7C6D5-F4E3-4B2A-9C8D-E7F6A5B4C3D2",
+    "name": "Avocado",
+    "servingSize": "1/2 medium",
+    "calories": 160,
+    "protein": 2,
+    "carbs": 9,
+    "fat": 15
+  },
+  {
+    "id": "9F8E7D6C-5B4A-4C3D-B2A1-E9F8D7C6B5A4",
+    "name": "Whole Egg",
+    "servingSize": "1 large",
+    "calories": 78,
+    "protein": 6,
+    "carbs": 0.6,
+    "fat": 5
+  },
+  {
+    "id": "6A5B4C3D-2E1F-4A9B-8C7D-F6E5D4C3B2A1",
+    "name": "Oats",
+    "servingSize": "1/2 cup dry",
+    "calories": 300,
+    "protein": 10,
+    "carbs": 54,
+    "fat": 5
+  },
+  {
+    "id": "D2C1B9A8-7F6E-4D5C-B3A2-E1F9D8C7B6A5",
+    "name": "Greek Yogurt",
+    "servingSize": "1 cup",
+    "calories": 100,
+    "protein": 17,
+    "carbs": 6,
+    "fat": 0
+  }
+]
