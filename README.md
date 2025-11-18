@@ -1,5 +1,7 @@
 # Smart Nutrition & Calorie Tracker (iOS – SwiftUI)
 
+https://github.com/4LOKI/nutrition-tracker-ios-application/tree/main
+
 This is an iOS application built with SwiftUI. It helps users track daily food intake, calories, macronutrients, water consumption, and visualize progress through interactive charts. The app works fully offline using JSON-based local storage.
 
 ---
